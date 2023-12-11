@@ -16,12 +16,14 @@ Our primary goal is to learn from fellow students and optimize our academic deci
 Through these goals, we aim to extract meaningful insights and contribute to a collective understanding of academic success dynamics.
 
 ## Guide
-In this repo we have a file named ....... and also the dataset. Download both of the files into your computer and you can open them in 
-either Google Collab as we did or in a more mainstream Jupyter Notebook. <br />
+In this repo we have a folder named "project" where you can find the project file and also the dataset. Download both of the files into your computer and you can open them in Jupyter Notebook. Please install "dash" into your computer as well (using "pip install dash" in the computers commandline).
+We made it in Google Collab so if you find some errors while running the code please let us know but when we tried it out we made neccessery changes so it should work in Jupyter Notebook.<br />
 In our file you will see that everything is catogrised: <br />
 1. Introduction to the dataset - here we take a closer look into the dataset and define what the columns and their values mean.
 2. Some basic data analysis - here we take a closer look into the dataset values and have graphs depicting the database and its basic correlations.
 3. Static Dashboard - here we have made a static dashboard which has most of the graphs that we made previously.
-4. Correlation analysis - here we are getting more in depth with the correlations, constructing heat maps and making a prediction model.
-5. Hyphotesis - here we are stating a hypothesis and testing it.
-6. 
+4. Dynamic Dashboard - here we have a simple dynamic dashboard.
+5. Correlation analysis - here we are getting more in depth with the correlations, constructing heat maps and making a prediction model.
+6. Creating predicting models - here we have created  predicting models.
+7. Hyphotesis - here we are stating a hypothesis and testing it.
+8. Conclusion - here we have written the conclusion what we have found in the proccess.
